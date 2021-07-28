@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "https://ahmedrageh.github.io/csb-4ge2k/static/js/main.50826933.chunk.js",
+    "main.js.map": "https://ahmedrageh.github.io/csb-4ge2k/static/js/main.50826933.chunk.js.map",
+    "runtime-main.js": "https://ahmedrageh.github.io/csb-4ge2k/static/js/runtime-main.d8092931.js",
+    "runtime-main.js.map": "https://ahmedrageh.github.io/csb-4ge2k/static/js/runtime-main.d8092931.js.map",
+    "static/js/2.45019e6c.chunk.js": "https://ahmedrageh.github.io/csb-4ge2k/static/js/2.45019e6c.chunk.js",
+    "static/js/2.45019e6c.chunk.js.map": "https://ahmedrageh.github.io/csb-4ge2k/static/js/2.45019e6c.chunk.js.map",
+    "index.html": "https://ahmedrageh.github.io/csb-4ge2k/index.html",
+    "precache-manifest.59a9f9987786b307afcd3f3574a428c9.js": "https://ahmedrageh.github.io/csb-4ge2k/precache-manifest.59a9f9987786b307afcd3f3574a428c9.js",
+    "service-worker.js": "https://ahmedrageh.github.io/csb-4ge2k/service-worker.js",
+    "static/js/2.45019e6c.chunk.js.LICENSE.txt": "https://ahmedrageh.github.io/csb-4ge2k/static/js/2.45019e6c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8092931.js",
+    "static/js/2.45019e6c.chunk.js",
+    "static/js/main.50826933.chunk.js"
+  ]
+}
